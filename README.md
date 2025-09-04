@@ -26,6 +26,6 @@ Made with love for Noah & Cathlyn 💞
 4. Run the game:
 ```java -cp out src.XOXO```
 
-## License
+## 📜 License
 
 This project is for personal use. Feel free to use and alter any of the images to your liking!
