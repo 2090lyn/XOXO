@@ -18,13 +18,13 @@ Made with love for Noah & Cathlyn 💞
 1. Clone the repo:
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   cd <your-repo>```
    
 2. Compile the Java file:
-```javac -d out src/XOXO.java
+```javac -d out src/XOXO.java```
 
 4. Run the game:
-```java -cp out src.XOXO
+```java -cp out src.XOXO```
 
 ## 📜 License
 
