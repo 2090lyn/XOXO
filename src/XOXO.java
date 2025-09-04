@@ -1,4 +1,4 @@
-package TTT;
+package src;
 import javax.swing.*; // interactive interface - JFrame
 import java.awt.*; // Grids & customization
 import java.awt.event.ActionEvent; // events after clicking
@@ -334,3 +334,4 @@ public class XOXO extends JFrame {
         new XOXO();
     }
 }
+
