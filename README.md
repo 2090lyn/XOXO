@@ -21,12 +21,10 @@ Made with love for Noah & Cathlyn 💞
    cd <your-repo>
    
 2. Compile the Java file:
-```bash
-   javac -d out src/XOXO.java
+   ```javac -d out src/XOXO.java```
 
 4. Run the game:
-```bash
-   java -cp out src.XOXO
+```java -cp out src.XOXO```
 
 ## 📜 License
 
