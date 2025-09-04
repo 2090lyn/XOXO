@@ -28,12 +28,12 @@ public class XOXO extends JFrame {
         setLayout(new GridLayout(3, 3));
 
         // images for background
-        xIcon = new ImageIcon("images/X.png");
-        oIcon = new ImageIcon("images/O.png");
-        heartIcon = new ImageIcon("images/heart.png");
-        noahIcon = new ImageIcon("images/Noah.png");
-        cathlynIcon = new ImageIcon("images/Cathlyn.png");
-        backgroundImage = new ImageIcon("images/Background.png");
+        xIcon = new ImageIcon("assets/X.png");
+        oIcon = new ImageIcon("assets/O.png");
+        heartIcon = new ImageIcon("assets/heart.png");
+        noahIcon = new ImageIcon("assets/Noah.png");
+        cathlynIcon = new ImageIcon("assets/Cathlyn.png");
+        backgroundImage = new ImageIcon("assets/Background.png");
 
         JPanel panel = new BackgroundPanel();
         panel.setLayout(new GridLayout(3,3));
@@ -334,4 +334,5 @@ public class XOXO extends JFrame {
         new XOXO();
     }
 }
+
 
